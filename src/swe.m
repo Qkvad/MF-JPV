@@ -33,8 +33,6 @@ Uy = zeros(n+1,n+1);
 Vx = zeros(n+1,n+1);
 Vy = zeros(n+1,n+1);
 
-pause(25);
-
 while 1==1
 
  % redraw the mesh
